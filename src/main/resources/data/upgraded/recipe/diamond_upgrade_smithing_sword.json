@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:gold_sword",
+  },
+  "addition": {
+    "item": "minecraft:diamond_block"
+  },
+  "template": {
+    "item": "upgraded:diamond_upgrade"
+  },
+  "result": {
+    "id": "minecraft:diamond_sword",
+    "count": 1
+  }
+}

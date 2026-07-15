@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:gold_axe"
+  },
+  "addition": {
+    "item": "minecraft:diamond_block"
+  },
+  "template": {
+    "item": "upgraded:diamond_upgrade"
+  },
+  "result": {
+    "id": "minecraft:diamond_axe",
+    "count": 1
+  }
+}

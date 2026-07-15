@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:iron_shovel"
+  },
+  "addition": {
+    "item": "minecraft:gold_block"
+  },
+  "template": {
+    "item": "upgraded:gold_upgrade"
+  },
+  "result": {
+    "id": "minecraft:gold_shovel",
+    "count": 1
+  }
+}

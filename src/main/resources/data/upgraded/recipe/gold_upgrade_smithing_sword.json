@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:iron_sword"
+  },
+  "addition": {
+    "item": "minecraft:gold_block"
+  },
+  "template": {
+    "item": "upgraded:gold_upgrade"
+  },
+  "result": {
+    "id": "minecraft:gold_sword",
+    "count": 1
+  }
+}
