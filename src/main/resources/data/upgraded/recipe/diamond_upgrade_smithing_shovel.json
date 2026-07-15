@@ -1,7 +1,7 @@
 {
   "type": "minecraft:smithing_transform",
   "base": {
-    "item": "minecraft:gold_shovel"
+    "item": "minecraft:golden_shovel"
   },
   "addition": {
     "item": "minecraft:diamond_block"

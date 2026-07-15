@@ -1,7 +1,7 @@
 {
   "type": "minecraft:smithing_transform",
   "base": {
-    "item": "minecraft:gold_hoe"
+    "item": "minecraft:golden_hoe"
   },
   "addition": {
     "item": "minecraft:diamond_block"
