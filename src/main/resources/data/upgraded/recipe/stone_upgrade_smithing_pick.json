@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:wooden_pickaxe"
+  },
+  "addition": {
+    "item": "minecraft:cobblestone"
+  },
+  "template": {
+    "item": "upgraded:stone_upgrade"
+  },
+  "result": {
+    "id": "minecraft:stone_pickaxe",
+    "count": 1
+  }
+}

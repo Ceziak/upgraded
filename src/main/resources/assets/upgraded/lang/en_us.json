@@ -1,0 +1,8 @@
+{
+  "item.upgraded.stone_upgrade": "Stone Upgrade",
+  "item.upgraded.iron_upgrade": "Iron Upgrade",
+  "item.upgraded.gold_upgrade": "Gold Upgrade",
+  "item.upgraded.diamond_upgrade": "Diamond Upgrade",
+
+  "creativetab.upgraded.upgraded": "UPGRADED!"
+}
